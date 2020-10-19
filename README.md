@@ -1,1 +1,1 @@
-# amqp-koa
+# amqp-rpc
